@@ -612,7 +612,7 @@ ${readmore}
 ║${Yy+=1} ${prefix}storysholawatan
 ╚═════════════════`;
 sendButImage(from, menu, 
-`*Base By KirBotz×*`, kirrfoto, [
+`*Base By 𝐟𝐢𝐫𝐚𝐚ʙᴏᴛ🐣✨×*`, kirrfoto, [
 {
 buttonId: `${prefix}sc`,
 buttonText: {
@@ -1213,8 +1213,8 @@ menu =
 *│Bio User* : ${thu.status}
 *╰──────────────*
 *╭──「 INFO BOT 」*
-*│Nama Bot* : KirBotz
-*│Nama Owner* : Akira
+*│Nama Bot* : 𝐟𝐢𝐫𝐚𝐚ʙᴏᴛ🐣✨
+*│Nama Owner* : 𝐟𝐢𝐫𝐚
 *│Runtime Bot* : ${runtime(process.uptime())}
 *│Speed Bot* : ${latensie.toFixed(4)} Detik ⚡
 *│Mode Bot* : ${KirSelfPublic ? 'MODE SELF' : 'MODE PUBLIC'}
